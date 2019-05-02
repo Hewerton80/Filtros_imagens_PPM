@@ -4,7 +4,7 @@
 #include <cstring>
 
 int const DMAX=512;
-int const SMAX=51;
+int const SMAX=512;
 struct Img
 {
     char id[3];
